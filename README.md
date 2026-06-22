@@ -57,7 +57,7 @@ notebooks/L06_practice.ipynb  Self-runnable hands-on notebook (incl. model stack
 notebooks/data/               HDB resale dataset the notebook downloads from this repo
 ```
 
-## 📓 What's in the notebook (`notebooks/L06_practice.ipynb`)
+## 📓 What's in the notebook (`notebooks/C32_practice.ipynb`)
 A guided, self-runnable lab that takes the 3-feature baseline and makes it better
 *and* more trustworthy. Recently added:
 - **Plain-English metrics primer** — a no-stats-needed explanation of MAE, MAPE,
